@@ -1,0 +1,10 @@
+﻿{
+	"Name": "Fish Basket",
+	"Author": "StarDewUncle",
+	"Version": "0.0.1",
+	"Description": "Adds a fish basket in 4 quality tiers.",
+	"UniqueID": "StardewUncle.FishBasket",
+	"MinimumApiVersion": "4.0.0",
+	"EntryDll": "FishBasket.dll",
+	"UpdateKeys": []
+}
